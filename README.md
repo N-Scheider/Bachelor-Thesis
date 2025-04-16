@@ -13,7 +13,7 @@ The main files (Main_blablabla) are connected to all the other .py files.
 Main_Functions_Easy.py contains a frame work the approximates the value function of the easier microgrid via an implicit Finite Difference Method or via Monte Carlo simulation.
 Main_Functions_Intermediate.py contains a frame work the approximates the value function of the intermediate microgrid via an explicit Finite Difference Method or via a Regression Monte Carlo simulation.
 Main_Convergence.py contains a frame work that explores the convergence behavior of the two methods used for the easier microgrid.
-
+Regression_Monte_Carlo.py contains the main function which implements the Pseudocode at page 49 in the thesis.
 
 
 ## License
